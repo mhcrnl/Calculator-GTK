@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/Calculator_Gtk">
+    <file>calculator_gtk-window.ui</file>
+  </gresource>
+</gresources>

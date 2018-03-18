@@ -1,0 +1,5 @@
+data/org.gnome.Calculator_Gtk.desktop.in
+data/org.gnome.Calculator_Gtk.appdata.xml.in
+data/org.gnome.Calculator_Gtk.gschema.xml
+src/calculator_gtk-window.uisrc/main.c
+src/calculator_gtk-window.c
